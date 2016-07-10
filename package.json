@@ -1,0 +1,24 @@
+{
+  "name": "scanaround",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipavlidakis/scanaround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipavlidakis/scanaround/issues"
+  },
+  "homepage": "https://github.com/ipavlidakis/scanaround#readme",
+  "dependencies": {
+     "elasticsearch": "^5.0.0",
+     "firebase": "^2.2.7"
+ }
+}
