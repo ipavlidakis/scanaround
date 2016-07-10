@@ -3,7 +3,7 @@ var elasticsearch = require('elasticsearch');
 
 var config = {
     firebaseUrl: 'https://scanaround-42693.firebaseio.com/',
-    elasticSearchUrl: 'https://scanaround.herokuapp.com/'
+    elasticSearchUrl: 'https://pacific-refuge-11944.herokuapp.com/'
 }
 var rootRef = new Firebase(config.firebaseUrl);
 
